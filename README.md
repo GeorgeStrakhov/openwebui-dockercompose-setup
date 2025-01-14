@@ -1,6 +1,6 @@
 # set up private chatgpt interface for friends and family
 
-1. Get an ubuntu droplet on DO
+1. Get a bare ubuntu droplet on Digital Ocean or anywhere else
 
 2. Update everything and install Docker and Docker-compose
 
