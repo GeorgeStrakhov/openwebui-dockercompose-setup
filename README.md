@@ -44,6 +44,8 @@ Change your email there!!!
 7. let's go
 
 ```bash
+docker network create web
+
 docker compose up -d
 ```
 
